@@ -1,6 +1,8 @@
 # Morse code decoder
 
-## Task
+## Rolling Scopes Task
+
+![image](https://github.com/user-attachments/assets/dff7c775-b985-436a-b5ce-9670d9b06715)
 
 Your task is to write a function, that decodes Morse code and returns a string.
 Write your solution in `src/index.js`
