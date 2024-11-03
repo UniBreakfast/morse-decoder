@@ -1,4 +1,4 @@
-# Morse code decoder
+# [Morse code decoder](https://github.com/UniBreakfast/morse-decoder)
 
 ## Rolling Scopes Task
 
